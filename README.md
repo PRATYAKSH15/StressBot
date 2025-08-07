@@ -1,5 +1,7 @@
 # 🧘‍♀️ StressBOT – AI Chatbot for Stress Management & Motivation
-# Built as a Therapy & Stress Support Agent
+## 🤖 Built as a Therapy & Stress Support Agent
+
+![StressBOT Main Screen](first.png)
 
 StressBOT is your empathetic and intelligent mental wellness companion Agent built using LangChain and Streamlit.  
 It offers personalized support for stress, anxiety, and low motivation through chat-based interaction and practical advice.
@@ -8,13 +10,24 @@ It offers personalized support for stress, anxiety, and low motivation through c
 
 ## 💡 Features
 
-- 🧠 **Therapeutic Chatbot** trained to offer personalized stress-relief and motivational support
-- ✏️ **Rename Chats** directly from the sidebar
-- 🗑️ **Delete Chats** with a click for decluttering
-- 📤 **Export Chats** as `.txt` files for future reflection
-- 💬 **Multiple Sessions** with persistent chat history across sessions
-- 🪄 **Warm, Supportive Tone** using a custom PromptTemplate for therapy context
-- ⚡ **Built with LangChain**, using `LLMChain` and `PromptTemplate`
+- 🧠 **Therapeutic Chatbot** trained to offer personalized stress-relief and motivational support  
+- ✏️ **Rename Chats** directly from the sidebar  
+- ⚡ **Built with LangChain**, using `LLMChain` and `PromptTemplate`  
+- 💬 **Multiple Sessions** with persistent chat history across sessions  
+- 🪄 **Warm, Supportive Tone** using a custom PromptTemplate for therapy context  
+
+---
+
+## 🖼️ Chat Interface
+
+### Sidebar Options – with chat1 (switched to this)
+![Chat Example 1 - also shows side bar setting](chat1.png)
+
+### Chat Session – with chat2 (switched to this)
+![Chat Example 2](chat2.png)
+
+### Continued Session – with chat2
+![Chat Example 2 Continued](chat2_cont.png)
 
 ---
 
