@@ -23,6 +23,9 @@ It offers personalized support for stress, anxiety, and low motivation through c
 ### Sidebar Options – with chat1 (switched to this)
 ![Chat Example 1 - also shows side bar setting](chat1.png)
 
+### Continued Session – with chat1
+![chat Example 2 Continued](chat1_cont.png)
+
 ### Chat Session – with chat2 (switched to this)
 ![Chat Example 2](chat2.png)
 
